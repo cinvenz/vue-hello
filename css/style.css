@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.align {
+    text-align: center;
+    color: red;
+    background-color: tan;
+    width: 100vw;
+    height: 100vh;
+}
+
+.margine {
+    margin-top: 2rem;
+}
